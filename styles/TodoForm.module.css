@@ -1,0 +1,24 @@
+@import url("https://use.typekit.net/uhq3nod.css");
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+.inpt {
+  margin: 5px 0 0 0;
+}
+
+.btn {
+  background: rgb(151, 233, 231);
+  margin: 5px 0 0 0;
+  font-family: input-mono, monospace;
+  font-weight: 400;
+  font-style: normal;
+  transition: 1s;
+}
+.btn:hover {
+  background: rgb(71, 179, 255);
+}
